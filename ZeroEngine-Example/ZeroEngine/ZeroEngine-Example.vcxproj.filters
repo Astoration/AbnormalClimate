@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="WinMain">
+      <UniqueIdentifier>{69884c26-f183-4c1f-bf16-01a9578cb481}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled Code">
+      <UniqueIdentifier>{90838b63-ee84-4194-a0c8-a550ff2b8a78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate">
+      <UniqueIdentifier>{3ae5a767-9250-44a7-b859-0b0ba1868ea5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene">
+      <UniqueIdentifier>{c9cc5346-c60b-448f-871a-23babb7f02b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\InStageScene">
+      <UniqueIdentifier>{b7485685-3835-4918-b66d-7fd280563086}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\InStageScene\Object">
+      <UniqueIdentifier>{ab5b9561-cf51-4b05-8b03-7728e2d5393b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\InStageScene\Skill">
+      <UniqueIdentifier>{e9222cb7-a0ca-4400-86c4-513318564c80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\InStageScene\Skill\SkillKind">
+      <UniqueIdentifier>{c7053300-8b1d-4d76-ac6d-63e81c950f97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\SlectStageScene">
+      <UniqueIdentifier>{588c1716-24e6-4ca1-a8df-9d014e75ccd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\SlectStageScene\SelectScene">
+      <UniqueIdentifier>{9efb8b51-44aa-495b-b429-7c3336ff4d3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\GameOverScene">
+      <UniqueIdentifier>{157c8628-f856-4449-bfaf-ea094117a48f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\TitleScene">
+      <UniqueIdentifier>{0b965bb7-b14a-4051-9c68-36794b544055}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\loadingScene">
+      <UniqueIdentifier>{64646f67-8b65-45eb-a1b3-5058f079f16b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AbnormalClimate\InGameScene\StoryScene">
+      <UniqueIdentifier>{ea712505-3d07-461d-8fd4-26de048441da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\ZeroEngine\ZeroEngine\stdafx.h">
+      <Filter>Precompiled Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillOne.h">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Skill\SkillKind</Filter>
+    </ClInclude>
+    <ClInclude Include="Dummys.h">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectStageScene.h">
+      <Filter>AbnormalClimate\InGameScene\SlectStageScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectScene.h">
+      <Filter>AbnormalClimate\InGameScene\SlectStageScene\SelectScene</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScene.h">
+      <Filter>AbnormalClimate\InGameScene\GameOverScene</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>AbnormalClimate\InGameScene\TitleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScene.h">
+      <Filter>AbnormalClimate\InGameScene\loadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="InStageScene.h">
+      <Filter>AbnormalClimate\InGameScene\InStageScene</Filter>
+    </ClInclude>
+    <ClInclude Include="StoryScene.h">
+      <Filter>AbnormalClimate\InGameScene\StoryScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Precompiled Code</Filter>
+    </ClCompile>
+    <ClCompile Include="InStageScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\InStageScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.cpp">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillOne.cpp">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Skill\SkillKind</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Dummys.cpp">
+      <Filter>AbnormalClimate\InGameScene\InStageScene\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectStageScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\SlectStageScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\SlectStageScene\SelectScene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\GameOverScene</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\TitleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\loadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="StoryScene.cpp">
+      <Filter>AbnormalClimate\InGameScene\StoryScene</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(Name=Dummys::Update @1 @2 OverloadingParameters=[(Type=float Name=eTime)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="155.875,335.76,75.66,25.96" Label="Update" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/dummys.cpp&quot; StartLineNumber=40 StartCharacterOffset=0 EndLineNumber=40 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=GameOverScene::GameOverScene @1 @2 OverloadingParameters=[(Type=bool Name=GameOverble),(@11 Name=stageKind),(Type=bool Name=bossable),(@11 Name=time),(@11 Name=stage),(Type=&quot;int[14] *&quot; Name=map),(@11 Name=tt)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="378,335.76,125.41,25.96" Label="GameOverScene" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/gameoverscene.cpp&quot; StartLineNumber=50 StartCharacterOffset=0 EndLineNumber=50 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=InStageScene::Render @1 @2 @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="373.42,223.84,74.57,25.96" Label="Render" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/instagescene.cpp&quot; StartLineNumber=135 StartCharacterOffset=0 EndLineNumber=135 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=SelectScene::SelectScene @1 @2 OverloadingParameters=[(@11 Name=kind)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="549.655,391.72,100.1,25.96" Label="SelectScene" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/selectscene.cpp&quot; StartLineNumber=31 StartCharacterOffset=0 EndLineNumber=31 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=ZeroFont::SetString @1 @2 OverloadingParameters=[(Type=&quot;char *&quot; Name=_format)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="262.161666666667,335.76,85.0866666666666,25.96" Label="SetString" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine/zeroengine/zerofont.cpp&quot; StartLineNumber=63 StartCharacterOffset=0 EndLineNumber=63 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=ZeroSprite::ZeroSprite @1 @2 OverloadingParameters=[(Type=&quot;char *&quot; Name=_path)] @3)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="16.5416666666667,391.72,92.3266666666667,25.96" Label="ZeroSprite" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine/zeroengine/zerosprite.cpp&quot; StartLineNumber=22 StartCharacterOffset=0 EndLineNumber=22 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@10" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="372.875,279.8,75.66,25.96" Label="Update" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/titlescene.cpp&quot; StartLineNumber=20 StartCharacterOffset=0 EndLineNumber=20 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="368.471666666667,55.96,84.4666666666667,25.96" Label="WinMain" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/winmain.cpp&quot; StartLineNumber=78 StartCharacterOffset=0 EndLineNumber=78 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="7.105427357601E-15,335.76,125.41,25.96" Label="GameOverScene" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/gameoverscene.cpp&quot; StartLineNumber=6 StartCharacterOffset=0 EndLineNumber=6 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@4" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="534.385,335.76,130.64,25.96" Label="SelectStageScene" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/selectstagescene.cpp&quot; StartLineNumber=9 StartCharacterOffset=0 EndLineNumber=9 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@5" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="373.42,111.92,74.57,25.96" Label="Render" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine/zeroengine/zeroapplication.cpp&quot; StartLineNumber=121 StartCharacterOffset=0 EndLineNumber=121 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="373.42,167.88,74.57,25.96" Label="Render" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine/zeroengine/zeroscenemanager.cpp&quot; StartLineNumber=48 StartCharacterOffset=0 EndLineNumber=48 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="266.875,167.88,75.66,25.96" Label="Update" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine/zeroengine/zeroapplication.cpp&quot; StartLineNumber=100 StartCharacterOffset=0 EndLineNumber=100 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@8" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="266.875,223.84,75.66,25.96" Label="Update" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine/zeroengine/zeroscenemanager.cpp&quot; StartLineNumber=36 StartCharacterOffset=0 EndLineNumber=36 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="266.875,279.8,75.66,25.96" Label="Update" SourceLocation="(Assembly=&quot;file:///c:/users/dell/documents/카카오톡 받은 파일/abnormalclimate/zeroengine-example/zeroengine/instagescene.cpp&quot; StartLineNumber=86 StartCharacterOffset=0 EndLineNumber=86 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="374.595,0,72.22,25.96" Label="외부 코드">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@10" Target="@4" Category="CallStackDirectCall" Bounds="448.304718017578,303.912689208984,98.9317932128906,29.2922058105469" />
+    <Link Source="@12" Target="@5" Category="CallStackDirectCall" Bounds="410.704986572266,81.9199981689453,0,21" />
+    <Link Source="@13" Target="(Name=ZeroSprite::ZeroSprite @1 @2 OverloadingParameters=[(Type=&quot;char *&quot; Name=_path)] @3)" Category="CallStackDirectCall" Bounds="62.7050018310547,361.720001220703,0,21" />
+    <Link Source="@4" Target="(Name=SelectScene::SelectScene @1 @2 OverloadingParameters=[(@11 Name=kind)] @3)" Category="CallStackDirectCall" Bounds="599.705017089844,361.720001220703,0,21" />
+    <Link Source="@5" Target="@6" Category="CallStackDirectCall" Bounds="410.704986572266,137.880004882813,0,21" />
+    <Link Source="@5" Target="@7" Category="CallStackDirectCall" Bounds="337.250823974609,137.880004882813,48.8673400878906,25.7982482910156" />
+    <Link Source="@6" Target="(Name=InStageScene::Render @1 @2 @3)" Category="CallStackDirectCall" Bounds="410.704986572266,193.839996337891,0,21" />
+    <Link Source="@7" Target="@8" Category="CallStackDirectCall" Bounds="304.704986572266,193.839996337891,0,21" />
+    <Link Source="@8" Target="@10" Category="CallStackDirectCall" Bounds="329.291839599609,249.800003051758,48.8673400878906,25.7982635498047" />
+    <Link Source="@8" Target="@9" Category="CallStackDirectCall" Bounds="304.704986572266,249.800003051758,0,20.9999847412109" />
+    <Link Source="@9" Target="(Name=Dummys::Update @1 @2 OverloadingParameters=[(Type=float Name=eTime)] @3)" Category="CallStackDirectCall" Bounds="227.488082885742,305.760009765625,51.4703216552734,25.9484558105469" />
+    <Link Source="@9" Target="(Name=GameOverScene::GameOverScene @1 @2 OverloadingParameters=[(Type=bool Name=GameOverble),(@11 Name=stageKind),(Type=bool Name=bossable),(@11 Name=time),(@11 Name=stage),(Type=&quot;int[14] *&quot; Name=map),(@11 Name=tt)] @3)" Category="CallStackDirectCall" Bounds="336.250396728516,305.760009765625,64.5862426757813,26.5753479003906" />
+    <Link Source="@9" Target="(Name=ZeroFont::SetString @1 @2 OverloadingParameters=[(Type=&quot;char *&quot; Name=_format)] @3)" Category="CallStackDirectCall" Bounds="304.704986572266,305.760009765625,0,21" />
+    <Link Source="@9" Target="@13" Category="CallStackDirectCall" Bounds="127.605850219727,301.527801513672,139.269149780273,32.2045593261719" />
+    <Link Source="ExternalCodeRootNode" Target="@12" Category="CallStackIndirectCall" Bounds="410.704986572266,25.9599990844727,0,21" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="호출 스택 직접 호출" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="호출 스택 직접 호출" OutgoingActionLabel="호출 스택 직접 호출" />
+    <Category Id="CallStackEntry" Label="호출 스택 항목" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="호출 스택 항목" />
+    <Category Id="CallStackIndirectCall" Label="호출 스택 간접 호출" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="호출 스택 간접 호출" OutgoingActionLabel="호출 스택 간접 호출" />
+    <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="확인되지 않은 메서드" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="확인되지 않은 메서드" />
+    <Category Id="CodeSchema_SourceLocation" Label="소스 위치" Icon="File" />
+    <Category Id="ExternalCallStackEntry" Label="외부 호출 스택 항목" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="외부 호출 스택 항목" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DataVirtualized" Label="가상화된 데이터" Description="true인 경우 그래프에는 그래프에서 실제 작성되지 않은 가상화된 노드/링크에 대한 데이터를 나타내는 노드 및 링크가 포함될 수 있습니다." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="레이블" Description="Annotatable 개체의 표시 가능 레이블입니다." DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="시작 줄 번호" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="어셈블리" ValueType="Uri" />
+    <Name Id="IsUnresolved" Label="확인되지 않음" ValueType="System.String" />
+    <Name Id="Name" Label="이름" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="매개 변수" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="형식" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=AbnormalClimate.exe" />
+    <Alias n="2" Id="Type=void" />
+    <Alias n="3" Id="IsUnresolved=True" />
+    <Alias n="4" Id="(Name=SelectStageScene::SelectStageScene @1 @2 @3)" />
+    <Alias n="5" Id="(Name=ZeroApplication::Render @1 @2 @3)" />
+    <Alias n="6" Id="(Name=ZeroSceneManager::Render @1 @2 @3)" />
+    <Alias n="7" Id="(Name=ZeroApplication::Update @1 @2 OverloadingParameters=[(Type=float Name=_eTime)] @3)" />
+    <Alias n="8" Id="(Name=ZeroSceneManager::Update @1 @2 OverloadingParameters=[(Type=float Name=_eTime)] @3)" />
+    <Alias n="9" Id="(Name=InStageScene::Update @1 @2 OverloadingParameters=[(Type=float Name=eTime)] @3)" />
+    <Alias n="10" Id="(Name=TitleScene::Update @1 @2 OverloadingParameters=[(Type=float Name=eTime)] @3)" />
+    <Alias n="11" Id="Type=int" />
+    <Alias n="12" Id="(Name=WinMain @1 @11 OverloadingParameters=[(Type=&quot;HINSTANCE__ *&quot; Name=hInst),(Type=&quot;HINSTANCE__ *&quot; Name=__formal),(Type=&quot;char *&quot; Name=__formal),(@11 Name=__formal)] @3)" />
+    <Alias n="13" Id="(Name=GameOverScene::GameOverScene @1 @2 OverloadingParameters=[(Type=bool Name=GameOverble),(@11 Name=stageKind),(Type=bool Name=bossable),(@11 Name=time),(@11 Name=stage)] @3)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="현재 호출 스택 노드" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="외부 호출 스택 항목" ValueLabel="True">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="결과" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="어셈블리" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="네임스페이스" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="인터페이스" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="구조체" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="열거형" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="대리자" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="클래스" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="속성" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="메서드" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="이벤트" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="필드" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="외부" ValueLabel="범주 있음">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="주석" ValueLabel="주석 있음">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+</DirectedGraph>
